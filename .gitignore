@@ -1,0 +1,20 @@
+# Bỏ qua thư mục cấu hình cá nhân của VS
+.vs/
+**/.vs/
+
+# Bỏ qua thư mục chứa file biên dịch và file .exe
+x64/
+**/x64/
+x86/
+**/x86/
+Debug/
+**/Debug/
+Release/
+**/Release/
+
+# Bỏ qua các file tạm sinh ra khi Build
+*.user
+*.aps
+*.pch
+*.db
+*.opendb
