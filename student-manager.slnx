@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="student-manager/student-manager.vcxproj" Id="9bbdc88b-8dde-405f-a61a-9540d426285d" />
+</Solution>
